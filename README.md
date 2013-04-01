@@ -5,7 +5,7 @@ ShortcutPHP is probably the easiest php framework from the world.
 This framework was created for increasing the speed and the security of the web applications. 
 The shortcutPHP can help you to build your projects very quickly.
 
-This project is developed by Marianbest.com
+This project is developed by www.Marianbest.com
 
 ========================================================
 => Official website : www.shortcutPHP.com
