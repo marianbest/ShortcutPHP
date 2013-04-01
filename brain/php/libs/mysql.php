@@ -1,0 +1,11 @@
+<?php
+
+// Mysql 
+
+class db {
+
+
+
+}
+
+?>

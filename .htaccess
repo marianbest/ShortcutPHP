@@ -1,0 +1,10 @@
+# this is the initialization
+Options         +FollowSymLinks
+RewriteEngine   On
+RewriteBase     /
+# these are the rewrite conditions
+RewriteCond     %{REQUEST_FILENAME}     !-f
+RewriteCond     %{REQUEST_FILENAME}     !-d
+# and finally, the rewrite rules
+RewriteRule     ^([a-zA-Z0-9\-]+)/?$    /CmmiCamp/index.php?page=$1 [L,QSA]
+RewriteRule     ^([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-]+)/?$   /CmmiCamp/index.php?page=$1&subpage=$2 [L,QSA]
