@@ -12,9 +12,9 @@ This project is developed by Marianbest.com
 ========================================================
 
 You can learn how to use it very fast  direclty here :
-www.shortcut.php/tutorials
+www.shortcutphp.com/tutorials
 
 You can also download from here :
-www.shortcut.php/download
+www.shortcutphp.com/download
 
 
